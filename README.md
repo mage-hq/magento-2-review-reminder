@@ -1,5 +1,5 @@
 # magento-2-review-reminder
-Magento 2 Review Reminder is a useful extension to remind customers to share a review of a product they purchased by automatically sending a review reminder email.
+With the Magento 2 Review Reminder extension, you can remind customers to write a review of a product they bought by automatically sending a review reminder email.
 
 Please go to https://magehq.com/magento-2-review-reminder.html buy extension
 
